@@ -5,4 +5,6 @@
  - Terrain Tools (Package)
  - Terrain Sample Assets
  - Altar Ruins Free
+    - Using variety of models and assets
  - Conifers [BOTD]
+    - Using 2 trees
