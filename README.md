@@ -1,6 +1,6 @@
 # CMPM121_FinalProject
  UCSC's CMPM121 Final Project, Fall 2022
- By Jonathan Lewis and Joe Frumenti
+ - By Jonathan Lewis and Joe Frumenti
  
 
  ## HOW TO PLAY
