@@ -1517,7 +1517,7 @@ MonoBehaviour:
     m_Bits: 256
   _interactionPromptUI: {fileID: 1467845932}
   _numFound: 0
-  destroyedCrystals: 4
+  destroyedCrystals: 0
   forcefield: {fileID: 1217806046}
 --- !u!1 &593163326 stripped
 GameObject:
